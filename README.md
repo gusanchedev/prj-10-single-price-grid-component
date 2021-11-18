@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FrontendMentor.io solution URL here](https://www.frontendmentor.io/solutions/single-price-grid-component-solution-with-tailwindcss-IZBDqWe0S)
+- Live Site URL: [Live site URL in Vercel](https://prj-10-single-price-grid-component.vercel.app/)
 
 ## My process
 
