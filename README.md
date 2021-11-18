@@ -61,11 +61,6 @@ import "tailwindcss/tailwind.css";
     <script type="module" src="/main.js"></script>
   </body>
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 To extend TailwindCSS defaults with additional fonts and customized colors:
 ```js
 module.exports = {
